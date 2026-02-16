@@ -366,21 +366,21 @@ elif page == "Journey":
     st.markdown("<br>", unsafe_allow_html=True)
     
     render_timeline(
-        "2023 - Present", 
+        "2026 - Present", 
         "DevOps & Cloud Enthusiasm", 
         "Started focusing heavily on backend systems, Linux administration, and cloud platforms (AWS). "
         "Building projects with Docker and CI/CD pipelines."
     )
     
     render_timeline(
-        "2020 - Present", 
+        "2024-2025", 
         "Bachelor of Science in Information Technology", 
         "Maintaining high academic standing. Leader in multiple collaborative programming projects. "
         "Focus on Systems Administration and Web Development."
     )
     
     render_timeline(
-        "2018 - 2020", 
+        "2022 - 2023", 
         "Early Programming Days", 
         "Discovered passion for code through basic web development (HTML/CSS) and Python scripting. "
         "Solved algorithmic problems and built small automation scripts."
